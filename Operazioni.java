@@ -20,7 +20,7 @@ public class Operazioni {
 
       
       switch (scelta){
-        case 1: System.out.println(primo-secondo); 
+        case 1: System.out.println(primo+secondo); 
                 break;
         case 2: System.out.println(primo-secondo);; 
                 break;
